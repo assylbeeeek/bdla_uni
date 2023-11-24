@@ -1,0 +1,24 @@
+hello, everyone 
+it is a short txt file 
+to get familiar with the 
+rdd, flatMap() and reduceKey()
+that's it for this file!
+Quis duis cupidatat labore anim cupidatat qui culpa reprehenderit est qui aliquip enim commodo. Sit voluptate sit exercitation in esse fugiat culpa proident enim qui sunt. Elit commodo voluptate laborum mollit nostrud duis tempor est laboris ad sit.
+
+Eiusmod et ipsum deserunt minim eiusmod. Lorem non occaecat nisi nisi esse ex aliqua ad. Incididunt nisi do et incididunt consectetur laborum cupidatat et adipisicing pariatur officia sunt. Culpa occaecat minim Lorem culpa tempor quis.
+
+Duis fugiat in et nulla nisi nisi non. Exercitation nostrud non ad fugiat ullamco irure laborum proident id ea irure do ad amet. Adipisicing consequat minim ullamco excepteur id excepteur nulla et esse excepteur ex ut. Aliqua veniam anim cillum sit ex nisi nulla exercitation do deserunt. Anim dolore dolore dolor anim cupidatat adipisicing dolore aliqua exercitation anim. Nisi non sunt quis consequat consectetur occaecat. Incididunt pariatur minim aute occaecat.
+
+Esse id anim ipsum ipsum est anim veniam reprehenderit. Enim est pariatur esse eu mollit magna. Non commodo reprehenderit nisi veniam commodo exercitation sint aliqua. Quis labore dolor ullamco sunt anim irure quis anim sint ipsum esse aliquip incididunt.
+
+Laboris cupidatat duis qui proident nostrud ullamco ullamco deserunt amet. Cupidatat occaecat commodo sit occaecat aliqua nisi anim labore labore non velit anim dolore. Ullamco elit officia enim eu esse cillum ullamco adipisicing fugiat duis.
+
+Amet eu tempor veniam id ut et dolor fugiat mollit aliqua deserunt incididunt voluptate fugiat. Velit sit ea excepteur adipisicing anim. Lorem irure pariatur non in consequat mollit sunt consectetur enim tempor. Quis eiusmod nostrud pariatur irure duis enim aliqua exercitation est. Voluptate irure dolore adipisicing id sint cupidatat ex commodo pariatur dolore aliquip sunt eiusmod. Ad mollit est mollit occaecat sunt non exercitation in aute qui laborum. Dolore nulla reprehenderit qui eiusmod culpa qui velit officia.
+
+Tempor dolore cillum velit duis minim. Laboris non id ad in excepteur nisi labore exercitation ad et et. Ipsum sint culpa cupidatat eu aliqua elit irure ullamco quis est nisi. Laborum et amet proident nostrud minim qui veniam minim veniam culpa aliqua. Ad labore excepteur consectetur duis aliquip incididunt.
+
+Elit anim nisi eiusmod culpa. Officia dolor aliquip voluptate ea ea proident in proident deserunt est tempor sint. Ad dolore anim est deserunt ad sunt aliquip dolore ad aliquip laborum qui. Cupidatat eu dolore aliquip cupidatat nostrud velit voluptate eiusmod aliqua excepteur nisi Lorem adipisicing aliqua. Tempor eiusmod elit ut voluptate proident ullamco esse voluptate.
+
+Nisi est et ad consequat et reprehenderit irure velit ea adipisicing pariatur ullamco quis occaecat. Lorem cupidatat qui eiusmod elit ipsum ea. Lorem quis occaecat dolore exercitation ullamco officia voluptate culpa non qui cillum minim. Minim deserunt eiusmod enim occaecat quis id duis ipsum id culpa quis anim fugiat. Aliqua sint laboris aliquip magna mollit exercitation eiusmod Lorem aliquip irure exercitation. Cupidatat est irure velit consectetur enim.
+
+Eiusmod ea sit qui reprehenderit cillum eiusmod do consequat nulla eiusmod. Ex incididunt proident dolor sint velit anim fugiat Lorem irure ad minim in pariatur. Veniam occaecat ipsum commodo aliquip quis adipisicing aliquip dolor. Exercitation sint anim proident ipsum amet commodo proident irure adipisicing reprehenderit aliquip ad. Pariatur sit tempor qui irure et anim id.
